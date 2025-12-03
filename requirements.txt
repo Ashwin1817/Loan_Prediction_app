@@ -1,10 +1,10 @@
 numpy
 scipy
-scikit-learn
+scikit-learn=1.5.2
 matplotlib
 pandas
 fastapi
-uvicorn
+uvicorn[standard]
 gunicorn==19.9.0
 uvloop
 httptools
